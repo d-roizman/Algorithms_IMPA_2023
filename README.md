@@ -5,3 +5,5 @@ This repository contains a few of the algorithms discussed during Luiz Henrique 
 Each folder has an algorithm (written in python) related to some of the problems discussed, along with some adjoint files and images. Most are computational geometric or graph algorithms.
 
 Enjoy!
+
+ps: this repository is still under construction!
